@@ -1,0 +1,9 @@
+openai
+streamlit
+transformers
+nltk
+fastapi
+sqlite3
+speechrecognition
+gtts
+python-dotenv
